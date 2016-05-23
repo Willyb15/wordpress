@@ -61,6 +61,9 @@ sudo chown _www uploads/
 ```
 #####That worked. Surprised
 ##Start Using Wordpress Dashboard
-
+##Add plugin
+####Go to wordpress.org
+####Download plugin
+####Save into furniture-site/wp-content/plugins/
 
 
