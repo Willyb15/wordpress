@@ -45,5 +45,22 @@ sudo vi /etc/apache2/extra/httpd-vhosts.conf
 sudo apachectl -t
 sudo apachectl restart
 ```
-###Set Up DataBase
+###Set Up DataBase 
+#####Went into Sequel Pro and created Database with Furniture Name
+#####Update Schema Priviliges for X user
+###Update wp-config.php and save and Run Install (following directions on WP)
+##Customize Site
+####Goo to directory in Terminal and Give Apache User ownership of uploads
+```
+cd unit4/wordpress/furniture-site
+cd wp-content
+//Give Apache ownership of uploads folder
+//Make uploads folder
+mkdir uploads
+sudo chown _www uploads/
+```
+#####That worked. Surprised
+##Start Using Wordpress Dashboard
+
+
 
