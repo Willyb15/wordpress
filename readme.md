@@ -65,5 +65,9 @@ sudo chown _www uploads/
 ####Go to wordpress.org
 ####Download plugin
 ####Save into furniture-site/wp-content/plugins/
+####Go to plugins in Dashboard
+####Click activate
+####Copy ShortCode and Paste into New Post
+#####Front-Page.php will overrule index.php
 
 
