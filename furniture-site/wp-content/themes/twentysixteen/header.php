@@ -22,7 +22,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/styles.css">
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> >
 <div id="page" class="site">
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
