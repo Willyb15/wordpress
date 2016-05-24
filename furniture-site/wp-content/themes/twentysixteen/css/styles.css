@@ -1,10 +1,57 @@
-body{
-	 background-image: url("http://local-furniture-site.com/wp-content/uploads/2016/05/bricks.jpg");
-	/* background-size: repeat-y;*/
-	}
+body {
+    background-image: url("http://local-furniture-site.com/wp-content/uploads/2016/05/bricks.jpg");
 
-#page{
-	max-width:900px;
-	margin:auto;
+    /* background-size: repeat-y;*/
 }
 
+#page {
+    max-width: 900px;
+    margin: auto;
+}
+
+.site-branding {
+    width: 100%;
+    border-bottom: 2px solid #a0a0b2;
+    padding-bottom: 10px;
+}
+
+#site-title-custom {
+    width: 70%;
+    float: left;
+}
+
+.site-description {
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+#site-title-custom a {
+    font-size: 42px;
+    line-height: 42px;
+    color: #a0a0b2;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+}
+
+#site-header-menu{
+	margin-top: 10px;
+	width: 100%;
+}
+
+#menu-header-nav li{
+	text-transform: uppercase;
+}
+
+#site-navigation{
+	float:left;
+}
+
+.contact-email{
+	float:right;
+}
+#primary{
+	width: 100%;
+	float:none;
+	margin-left:0px;
+}
