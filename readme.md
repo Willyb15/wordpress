@@ -77,5 +77,6 @@ sudo chown _www uploads/
 ####Click activate
 ####Copy ShortCode and Paste into New Post
 #####Front-Page.php will overrule index.php
+#####We're gonna live in wp-content/themes
 
 
