@@ -1,4 +1,4 @@
-###Setting Up Drupal and Wordpress
+###Configuring a Wordpress CMS with Custom Plugins and Launching to AWS ubuntu
 ##Set up New Virtual Host
 ####127.0.0.1 is Local - Then the name
 ```
